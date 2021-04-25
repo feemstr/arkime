@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:20.10
 MAINTAINER Andy Wick <andy.wick@oath.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
