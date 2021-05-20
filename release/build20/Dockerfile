@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:groovy-20210416
 MAINTAINER Andy Wick <andy.wick@oath.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
